@@ -1,0 +1,10 @@
+,Injury ID,Player ID,Season,Season Type,Name,Team,Position,Body Part,Declared Inactive
+0,5711,2350,2020REG,1,Jeff King,ARI,TE,Knee,False
+1,17236,3931,2020REG,1,Rashard Mendenhall,ARI,RB,Hamstring,False
+2,27768,1214,2020REG,1,Frostee Rucker,ARI,DT,Calf,False
+3,44378,11026,2020REG,1,Jermaine Gresham,ARI,TE,Hamstring,
+4,115714,1214,2020REG,1,Frostee Rucker,ARI,DT,Knee,
+5,139859,11026,2020REG,1,Jermaine Gresham,ARI,TE,Ribs,True
+6,211017,11026,2020REG,1,Jermaine Gresham,ARI,TE,Achilles,False
+7,248660,16881,2020REG,1,Josh Shaw,ARI,SS,Shoulder,True
+8,260363,15177,2020REG,1,Robert Alford,ARI,CB,Torn Pectoral,True
