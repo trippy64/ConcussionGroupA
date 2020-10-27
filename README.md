@@ -12,7 +12,7 @@ Our group will evaluate the correlation between number of concussions in the NFL
 * Alt: If injuries were affected by rule changes, then injuries would go down.
 * Null: If injuries were not affected by rule changes, then injuries would not go down.
 
-3. Is there a certain time of year that has more concussions occur?
+3. Is there a certain time of season when more concussions occur?
 * Alt: If the time of year affects concussions, then there will be more concussions during a certain part of the season. 
 * Null: If the time of year does not affect concussions, then there will not be more concussions during a certain part of the season. 
 
